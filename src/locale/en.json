@@ -1,0 +1,6 @@
+{
+  "appTitle": "Search for Movies of 2020",
+  "autoCompleteLabel": "Movies of 2020",
+  "autoCompletePlaceholder": "Enter a movie name...",
+  "imageLoadError": "Poster failed to load."
+}
